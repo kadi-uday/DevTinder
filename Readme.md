@@ -81,17 +81,14 @@ Detailed API routes are documented in the project files.
 
 ## 📁 Project Structure
 
-```bash
-DevTinder-Backend/
-├── src/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middlewares/
-│   ├── utils/
-│   └── app.js
-├── package.json
-└── README.md
+src/
+├── controllers/
+├── routes/
+├── models/
+├── middlewares/
+├── utils/
+└── app.js
+
 
 ---
 
