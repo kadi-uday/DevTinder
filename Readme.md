@@ -81,14 +81,19 @@ Detailed API routes are documented in the project files.
 
 ## 📁 Project Structure
 
-src/
-├── controllers/
-├── routes/
-├── models/
-├── middlewares/
-├── utils/
-└── app.js
+```bash
+DevTinder-Backend/
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── middlewares/
+│   ├── utils/
+│   └── app.js
+├── package.json
+└── README.md
 
+```
 
 ---
 
@@ -105,13 +110,8 @@ The backend is deployed on AWS EC2 and is accessible via a public IP address:
 Base URL:
 http://13.62.58.3/
 
-Example API Endpoint:
-http://13.62.58.3/login
-
 ---
 
-## 🤝 Contact
+## 🤝 Contributing
 
-Feel free to raise issues or suggest improvements.
-
-
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
